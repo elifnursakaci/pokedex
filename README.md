@@ -1,0 +1,1 @@
+<img src="poke.gif" />
